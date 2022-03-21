@@ -16,3 +16,27 @@ h1 {
 	display: flex;
 	justify-content: center;
 }
+
+.buttons {
+	text-align: center;
+	margin: 1em;
+}
+
+.buttons button {
+	padding: 1em;
+	font-size: 2rem;
+}
+
+#scoreBox,
+#totalBox {
+	padding: 1em;
+	font-size: 2rem;
+	width: 50vw;
+	max-width: 15em;
+	margin: auto;
+	text-align: center;
+}
+
+#roundBox {
+	text-align: center;
+}
